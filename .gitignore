@@ -8,7 +8,7 @@ venv/
 
 # Distribution / packaging
 build/
-# dist/
+dist/
 *.egg-info/
 
 # IDE settings
